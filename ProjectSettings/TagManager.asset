@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Vehicle
+  - Pause
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Coin
+  - Row
+  - Vehicle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1081564647
+    locked: 0
+  - name: Coin
+    uniqueID: 4209041891
+    locked: 0
+  - name: Floor
+    uniqueID: 920166589
+    locked: 0
+  - name: Raised Floor
+    uniqueID: 2304801587
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Above
+    uniqueID: 3919215589
+    locked: 0

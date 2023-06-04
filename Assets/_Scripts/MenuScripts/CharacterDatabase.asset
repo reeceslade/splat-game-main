@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 891a7e32f70c94577a2f91aced4ad5ca, type: 3}
+  m_Name: CharacterDatabase
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: cat
+    characterModel: {fileID: 21300000, guid: 6056f9dd4a533d848bf3c503019a5590, type: 3}
+    isSpecialCharacter: 0
+    cost: 500
+    isUnlocked: 1
+    id: 0
+  - characterName: frog
+    characterModel: {fileID: 21300000, guid: 8076265f45816394d96274f2b0d707e5, type: 3}
+    isSpecialCharacter: 0
+    cost: 0
+    isUnlocked: 0
+    id: 0
+  - characterName: slug
+    characterModel: {fileID: 21300000, guid: a4029ffded913214abbb7f1b0b7da56f, type: 3}
+    isSpecialCharacter: 0
+    cost: 250
+    isUnlocked: 0
+    id: 0
+  - characterName: snake
+    characterModel: {fileID: 21300000, guid: 616035648d9e1c345aa91a2ce7ed66a4, type: 3}
+    isSpecialCharacter: 0
+    cost: 250
+    isUnlocked: 0
+    id: 0
+  - characterName: bee
+    characterModel: {fileID: 21300000, guid: 2020925cbca65f94d9b0da4b0e664b48, type: 3}
+    isSpecialCharacter: 1
+    cost: 20
+    isUnlocked: 0
+    id: 0
+  - characterName: butterfly
+    characterModel: {fileID: 21300000, guid: 100a9df6f6ee3d845991f9242f840c6a, type: 3}
+    isSpecialCharacter: 1
+    cost: 20
+    isUnlocked: 0
+    id: 0

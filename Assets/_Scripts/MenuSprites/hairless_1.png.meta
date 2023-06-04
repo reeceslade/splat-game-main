@@ -1,0 +1,6537 @@
+fileFormatVersion: 2
+guid: cfc3b2ca212d941dfa73ba98c69a974a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hairless_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 768
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03725d853568c4f3381dfbfe93d63e70
+      internalID: -128129331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 486
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fd2fcf7c82a41708d0245ee25f2be5
+      internalID: 433889430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 486
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a694a9771d644906a598c7548be0f23
+      internalID: 1570380054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 486
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0267c6b802e648328699d00fa9b3c94
+      internalID: -2065611729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 487
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d13653a618b14c14bf4362979d4dae3
+      internalID: 1260686192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 487
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ce5822b970746d7b0af0085885dbce
+      internalID: -192495128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 487
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab045ca6ca24fc9880469f0796c801
+      internalID: -932631293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 487
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38a6927c4234c3c80b0fbf20a2e2d7
+      internalID: 351555734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 487
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54072a07d7391427d95f65e3630368dc
+      internalID: 363941163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 487
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e3ad7b596c42d9ac72adfda4f057b
+      internalID: 9380249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 486
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241622a044984ca5ba65e212dc19cd2
+      internalID: -1936238461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 485
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c33b0280af42c9ae7818defb704fb
+      internalID: -1473464485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 484
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902266d5c713f482d8f5e53ff4d7647a
+      internalID: -56830761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 486
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ddcfbbdb3a243a0b7137e5c8e1d310
+      internalID: -718494502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 485
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e037ca59f12164f19bc031f8ff7a9f08
+      internalID: 1016155459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 486
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db779edcd135420194d6ea8aead2d52
+      internalID: 337555832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 485
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e8c2a2bedf14a728383f4037da8a29
+      internalID: -1242255242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 491
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103aded21ad994954bd26dfa7b1cdee4
+      internalID: -1510446241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_18
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 486
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63171a83eec7435f8beae1568b1edf8
+      internalID: -421624945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 488
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9f3a7b575a42b0a8dec4347c23acf
+      internalID: 1347491439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_20
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 489
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640942d4df72b44988789aab5701cd07
+      internalID: -363468890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_21
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 491
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43a00610b2f347618a93c0d2f155614
+      internalID: -478624579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_22
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 486
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ad5f84a51e44368ade2c2b73e53431
+      internalID: 1234815823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_23
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 486
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcabe0dd40a3649b1986013a7c4f8e65
+      internalID: -1051715073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_24
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 488
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509db1f25acae4cd1bbcb500c01b0c22
+      internalID: 1403625197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 455
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab674c0711fe544929a61ec126f6ecbe
+      internalID: -2135866381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 455
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44739079fc05c4300be531c6623a7ac6
+      internalID: 580143781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 455
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbe2d080b22b42978cbcdbb75ec6cce
+      internalID: 908045208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 455
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23aeb73f852642b299f4394b7c24b50
+      internalID: -501363347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 451
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b7d19175f143408f1f4ebb10bb782
+      internalID: -449893593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 450
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81db5a692ee0a45ae86eb26a2ad4c67b
+      internalID: 1069058126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7313a53118bb044e083140fd73fac135
+      internalID: 549718765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_32
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 448
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ac2ed04c7fa4728a7a0a0e805bbcdd
+      internalID: -1859723595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 458
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d02c7149474792a61a5d12c172809
+      internalID: -2050410116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_34
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 457
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d785bcc1de745fdbe54b24bdc08a28
+      internalID: -875371228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_35
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 457
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cec3aa5b0b9942c5a39355122aba922
+      internalID: 1635750285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_36
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 458
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823cb5538a57f48199ef443f3792157e
+      internalID: 606877078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_37
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 460
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab8a8f27c8094b55ac9b1751ed8c731
+      internalID: 662580199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 422
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b52386b6ab2496b86704952ea9caa0
+      internalID: 168003573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 422
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb311e9eda94599bc95a649e8b172a
+      internalID: -514534595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 423
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ffdc65c09f446fbff544aa36e0105
+      internalID: 848124612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 423
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd3dc748ac5494db65fa2e5e7ab455
+      internalID: 1369457860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 423
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c210e21c48f4c949b2692aaa1f6cb1
+      internalID: -1342423222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 423
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b4e964519a438199d2a5016be9fde
+      internalID: -1808983262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 423
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f5ea2d77dcf4db0b82038ea06399c6
+      internalID: 531625452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 423
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64f942e9eff43259c09ee840e98a55
+      internalID: -791137496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 423
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7240816633648468d6d64aca71a6a4
+      internalID: 766987127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 423
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0d3a49fd0e408bae686f7a57c345b
+      internalID: -1890075144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 422
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30f6347bd81141cf95d7c0c3c26828d
+      internalID: -1014847935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_49
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 421
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da4faaa5a24540b4ad3ead2b07f783d
+      internalID: -623432579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 422
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761f7d6ba74c7418b813cc654f370a4e
+      internalID: 642035450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 422
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed033fc1f98ab432582ad10915719a13
+      internalID: -716604079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 422
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d06963d7360456c805fc998a90881a
+      internalID: -1588026987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_53
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 422
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b201a0a246ca4b31bb1ec3835ffcabc
+      internalID: -1191659887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_54
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 425
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3901a2db0c2471896ccead858fec5d
+      internalID: -863442387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_55
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 422
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eadae28849b9487e9cd967b9a88c9af
+      internalID: 965012387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_56
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 423
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba2e52c8bde44c58a5250f4d37387c
+      internalID: -174105156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_57
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 424
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d92be09bf6a40f583f45a8eae21788
+      internalID: -676749886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_58
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 425
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b05e611276646f79bc6acc5c2fa37c
+      internalID: -980580705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_59
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 422
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78834856826ef40fa9ac6d6e6dc1e7c8
+      internalID: 1116711999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_60
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 422
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980788e841b47445c98e4ffbbc945a42
+      internalID: 1912077174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_61
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 423
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dfa1e6d1ec94aeeb667160cd4d3503
+      internalID: -106975301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 391
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3629c5de310412f98218cb73d16a7e
+      internalID: -957116771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 391
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884dc1251a3c948daa3fe6f34c681e64
+      internalID: -1109854889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 391
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff6a9379ba094fc78865944589758c7
+      internalID: -2016267246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 389
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3306b131a04441459aa2a04a797ab20
+      internalID: -230947251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 388
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f263f95a678412abe4af0777a39253
+      internalID: -159371818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 388
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa78fb411ac479fa953a57283e0999
+      internalID: 981033131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 388
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42745a4ae5dc14882aa6966c99417d7e
+      internalID: 70159289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_69
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 395
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10218f562daef4e07b1ed173bcd95d0f
+      internalID: -21613729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_70
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 392
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1579b27222a9437283addde153ff646
+      internalID: -1388080478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_71
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 392
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b49efebb89049e9a9a02c15e515e63
+      internalID: 125630046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_72
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 395
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c302c4e9aad4b0fa6fddc0bf36b5b0
+      internalID: -2118616672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_73
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 396
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89c12996d40b43c9ad518430363948d
+      internalID: -2033646971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 360
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328bcb12cc7949deb4b66674f08083a
+      internalID: 259757399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 360
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4db16099b20432cb298644aa3d5a0a
+      internalID: 826948712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d5c68c8ef474bc58c491f7448155f2
+      internalID: 2142798883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c01fd7187a4807b2e7a037d6ddc6b
+      internalID: -1409484443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 360
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0acdb0f69d945198c36f7a45db999f
+      internalID: -947511502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_79
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf745dfa8594d6481ceb2a0f59d41f
+      internalID: -310640055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_80
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e838619fd0e442385036615b004ec8
+      internalID: 2034066559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_81
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3489c4d50b7a48e1893ce397b0b532b
+      internalID: -516772674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463cf208fcc7b4ab5b95908e9b4ace5c
+      internalID: 284624283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_83
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85bad92a63b24c9fb2e83a72c27bb28
+      internalID: -464615484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_84
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 360
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bd4ac35ab7f443e8cd5687e65e808b
+      internalID: 1460830130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_85
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 360
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb906219822445684475f7586f25e2
+      internalID: 1720142469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 360
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c383f7b41af24eecbf169a330044744
+      internalID: 1542024179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 360
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e603e8d645143cd929e364d9012a93
+      internalID: -315305770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_88
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 360
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df31d0ec12ae49fd82c61c5575aff6d
+      internalID: -1430188318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_89
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 360
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0499e3c30c8f1404b9c3a4571db6038f
+      internalID: -262709234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_90
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 362
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d684dd79c52b449ab7cb7a4ca2d4471
+      internalID: -2147064320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_91
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 360
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf65fac1b38646339b9d2cbf5202c06
+      internalID: -634094198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_92
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 360
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc5c22e4c7184552aacf1c9febdbce7
+      internalID: -1299573342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_93
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 360
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129c8bbf4f564abc9d7fe5505b8e557
+      internalID: -1463312025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_94
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 364
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f09b51d6440c46938c4957d9bb2dfdf
+      internalID: 768945628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_95
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 360
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093f3c62b51c41bc900618297948ed5
+      internalID: 501978599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_96
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 360
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43329f200a074390b43a4671e7e51b1
+      internalID: -1788314867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_97
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 360
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6640bcef6934f1e88fce2e3b576017
+      internalID: -1393393045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68199d816bc154f80a81d880bc9b08fd
+      internalID: 736534163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_99
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 328
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834919f61ae5b4c7a923863240fb31d7
+      internalID: -895408713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_100
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 328
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dc061499ef44c5e930cb15cb9f4953
+      internalID: 809464626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_101
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 328
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d288fca3ed4ec6884058113e1c5cf
+      internalID: -507594965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_102
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 328
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b2f4c7bbc384c0b91153e622eccdac
+      internalID: -874775738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 328
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6efb6fed94964af09bcf9ae9e36008f
+      internalID: -857545385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 328
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80f83796a0e4a3694d8b4dce59b858
+      internalID: -508036798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_105
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 331
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce677df908e447a890820b115073a5
+      internalID: -660030613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_106
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 328
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662552aa9faa742ff8fa99e47dabd886
+      internalID: -1692429501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_107
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 328
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74cc8bc38a6d4c3c83ebaac6519f8e8
+      internalID: -1339451946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_108
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 332
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d230b55b724554442b6fc86925f7348e
+      internalID: -1386099194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_109
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 333
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398ad41f9fec4dc1ac9b541900d64f6
+      internalID: -64964997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 295
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60305d14252fe48659e49ddc7d80b7cb
+      internalID: 1062427122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 295
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24b088ff7b384e66b6cd13482eb9995
+      internalID: 790481845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 295
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfa9369e034d4b34bb272bf82898015
+      internalID: -520358933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 296
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6158c32207644fb994f03a164779fa
+      internalID: -307673286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 296
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab03c9b6ae644b358b73ff3a4806e7e
+      internalID: 1896998523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_115
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 296
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f471a0394de4e6b9f7667ef2772a0b
+      internalID: -466843922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 296
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49e25c5acb24f5baaf08d3b72480b4
+      internalID: 360304488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_117
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 296
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d08d2802fff42248bd06993827b747
+      internalID: 1484814698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_118
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 296
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4867b421b38a343a1b2913a090ba3183
+      internalID: -1512039741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 296
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9851893605b3e41c39a33c81642c072d
+      internalID: -648726004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_120
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 296
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c36b262e56ef4b8aa222bf7ec98e113
+      internalID: -328834207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_121
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 296
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476d9e2c1b3db4dbf9e8d47ba95a0e99
+      internalID: 446859884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_122
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 295
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbfb047e6ddc470da006fd32cf4dc9d
+      internalID: -2038131996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 295
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43cd9846665c4e3aa5ec6dde3ea9c41
+      internalID: 1708502668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_124
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 296
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491a87760088f4b5685e75d291b7d033
+      internalID: 79427475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_125
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 295
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aada1dcd146a0492f9c47f0d97fcfd6a
+      internalID: -1420715327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_126
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 297
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff644c02b38c4468a080c8291330d2d
+      internalID: -1608598043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_127
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 295
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f58372d8d24ad58de8059fb80ad5e
+      internalID: -728093606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_128
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 295
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab543f246233471e8d14d755bd1f4c9
+      internalID: 799117440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_129
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 297
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fce300481524b2ca71b79b80c4af58
+      internalID: -1271603333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_130
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 299
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ceef030f874abeaeca44fb6be9423
+      internalID: -915096440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_131
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 297
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e64bec0d02d4abd9317701967b1505
+      internalID: 1227643494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_132
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 297
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14070272b89431b9497129b4f13ebc
+      internalID: -342134684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_133
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 295
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1fea509898458382ee972709e9437
+      internalID: 190338224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_134
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f961dc6754a4feba5bbc534e60e83d
+      internalID: -1189741111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_135
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 264
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed146fa7188674e3b876ae5961125301
+      internalID: -555619386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_136
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 264
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d125d592d88492d99c5bcdb0077d5f
+      internalID: -23473904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_137
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 264
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eaaec58aff940f9893108de38c5bfb
+      internalID: -438947110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_138
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 264
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba45a025e9f4462b7a933f0397cc1c
+      internalID: 893373225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_139
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 264
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aa60209a314449aa9f6a4f4fdc1708
+      internalID: 139773529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_140
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 264
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f218987c486794059a7a0409ae3f71a9
+      internalID: -438232320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_141
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 268
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eaf13f3597042e5aadbbbf2a099a13
+      internalID: -1725568371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_142
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 263
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd9877927bfa4d64a5cf372fbbb0b31
+      internalID: 415503940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_143
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 263
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c5a8826c6f34e238c23cd0038fa891
+      internalID: 748603351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_144
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 265
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99a0c7e6cecb4009be8f0db26e8a06d
+      internalID: 1087217326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_145
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 268
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ac6b98b4ad4d419a74fae7ef6575d
+      internalID: 1132748888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7990c9f53cb248348ea477f1ea01670
+      internalID: -1597915089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_147
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9956a36b9ff1d42d8b79a19cb6d6f280
+      internalID: -126413105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_148
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb7e99e693a54cf39c60cb1045ac510
+      internalID: 1396123854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_149
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8550acf26c1124b9faba3a75b975bbd9
+      internalID: 1925671278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_150
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c86b9e2c2554193bae9eeb20842cbe
+      internalID: 1356916180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 228
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f10e3a0b3a246a8829d80b77a0c10b
+      internalID: 433803073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_152
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 228
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2507b3c206034f4c98c00488f0b9d3a
+      internalID: -120751537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_153
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 228
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d386c44615548debbf8fa5f6565d76
+      internalID: -1618331302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_154
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 228
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0f969f6235e44219f174f08cee7a02
+      internalID: -1199434140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_155
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 227
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac7d78b7d7324d1cae6882ccc74b57a
+      internalID: -1114298752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_156
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 226
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b00b540c234ffda1e6c034e45905f
+      internalID: 947955747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_157
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 225
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e7f57532bd481d8b9a531f177812b
+      internalID: 1564396792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_158
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 231
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf985a46c91934d5db8397925a99ef25
+      internalID: 1973363692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_159
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337accf657e054266ba792200ee31415
+      internalID: 1988201532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_160
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 231
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff9948431f07437d8a55c155adf833f
+      internalID: -533865216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_161
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d783162a494df0a1b292c8884b625
+      internalID: -1302743745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_162
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 233
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4979222f913c4e67a67d44502228900
+      internalID: 909207535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_163
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 232
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7a069cc3324e32957c22292c74912
+      internalID: 1163689104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_164
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 231
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb222dbc1d7e24f89a7c3768e37a74ae
+      internalID: -1446322300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_165
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 233
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5a7559b19b741beaeffc88afaf7eba
+      internalID: 2122595839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_166
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 235
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7725c9955c84bcab8cdb98eb124d9a
+      internalID: 1526702565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_167
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 233
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec440845e99d40678f22dfec2320ad5
+      internalID: 1026009640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_168
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 232
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd227873f604f338122be8de31c239
+      internalID: -591823050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_169
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 231
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94f38c84c9d49f2bd99ce1418e8211
+      internalID: 808796017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_170
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f923ec4f522e438f8e1b714004fa8f5
+      internalID: 1906221337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_171
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 198
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a31d114a612e41b1a816c88268a75ee
+      internalID: -888949763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_172
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 196
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e001501a09222413ebad7227cdeec916
+      internalID: 916935116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_173
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 196
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95535a0638ca94c7b817df66e94835d6
+      internalID: 1628700319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_174
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617f57d76eada44e29f29d6ef21211b4
+      internalID: -1967373651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_175
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 192
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343cb3d5774cd42fd90cc70a36de5f1b
+      internalID: -530380918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_176
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04d8babe20304370b387483e0dd185e
+      internalID: 142836599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_177
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 192
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f7eec5445354db3bc52c54f9371a6b
+      internalID: 795249099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_178
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 202
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c578b3e6da481487cab8638d88fd23ce
+      internalID: 537567141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_179
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 199
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d4a335e8ca24cfebedc6a901a4571e
+      internalID: -1755480381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_180
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 199
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a6777063db541bcb5ca2f23c9d09c1
+      internalID: -2084704501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_181
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 201
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9908f29efb71845d4880c8934109c8fb
+      internalID: -54133590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_182
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 202
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c20c48c549a41b5b3305cf8fbd689a
+      internalID: 191231829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_183
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb47a670d7f5c4084afb7c3a348d5da5
+      internalID: -1542968219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_184
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b794b6e7a7f34744b92e40f832272fe
+      internalID: -1266356178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_185
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b1c793855fe43b3a631f1452ff8ef6
+      internalID: -1111057471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_186
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 168
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1615ad88539e4db58b20f85e36f475b
+      internalID: -231540426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_187
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 168
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a349d0b0565604060a6bc00ab5642c66
+      internalID: 2054258132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_188
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 168
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b896126b167da436789b199e2775773a
+      internalID: -703921489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_189
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 168
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b624a3dfd04c98a1284e714e45c0b
+      internalID: 1624426962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_190
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 168
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd447ed94acb4a66bf49f1356c0a2ed
+      internalID: 1943518738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_191
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 168
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cbd43044d3a4fddbe9abf51ad3b213
+      internalID: -1301898879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_192
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 168
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e85f4ec508478d9355fe78f23732f
+      internalID: -452729014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_193
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 168
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e565e1d901c64ab792d5c9ac8f6188e
+      internalID: -1002540557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_194
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 168
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dcc3f10dcd2468f9c71668f57e0913
+      internalID: -2031185050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_195
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 167
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab10516a6003d4c05b05bebfcdba54fd
+      internalID: 1939366465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_196
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 167
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcfe6adab33c4bddb42d9f23dd5d20d
+      internalID: 609070542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_197
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 168
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9904801a7e54772aac98d802708414
+      internalID: 783489170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_198
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 167
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc3f8c277d2467187d2ffa6d13537c
+      internalID: -344958566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_199
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 169
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0e520262a249aa8b3dc4abbe34a82
+      internalID: -79716859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_200
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 167
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57523545cef4d4bb284060fd0fb1d4d5
+      internalID: 521489103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_201
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 167
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a352c371bafd24931afaace188ded491
+      internalID: 731537372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_202
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 169
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1087babe8d86242fe8d8bf0a3d3d9ce5
+      internalID: 907095936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_203
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 171
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f91650216b14ed196ea6d624a90e55
+      internalID: 1947810911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_204
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 169
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d2c9ee8e2464bea88a3969c0028b96
+      internalID: 1350093643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_205
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 169
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff79f2bca6f34cb9a3648392455c2a8
+      internalID: -1276218215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_206
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 167
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8766ac5f0d24c328b0f945631d91cc
+      internalID: -634218585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_207
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a4b5e5db87f44e7bd049006b02d145
+      internalID: 1911983873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_208
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 136
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017333b5cdfb49a79bd841d418bf439
+      internalID: 719860391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_209
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac963502d222a47f2833be0a8661f45c
+      internalID: 693735109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_210
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 136
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b900f7fed64b3f8081a8f984bda34
+      internalID: -640715529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_211
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 136
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6d0402ade134455925bf26b7a188f4
+      internalID: 1177595159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_212
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 136
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648635f9bc86b403cbac7d60117b9d28
+      internalID: 212461832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_213
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 136
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b6d888efd04f03a9be05378ef9b14
+      internalID: 1253483433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_214
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 140
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b56d23802fe4bd8a61f08e453b6b2a
+      internalID: -1099064020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_215
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 135
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aff8ed55fdd34e9da610f76872f4112
+      internalID: 1157430019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_216
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 135
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b9da0cad0f40e6a7ca2ced4c955aa
+      internalID: -1371224618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_217
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 137
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bb48432af148859a7a9fa3166edf0
+      internalID: -468750328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_218
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 140
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bdff6f393f34bfaa1e47b5156f6b2f
+      internalID: -309877713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_219
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10601f4ee0b94f68aadd18ce2511f65
+      internalID: -559169202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_220
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 104
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771debe15938c40b6b447b7909254350
+      internalID: 1990074592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_221
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d63af1f10d45d09fc6710c0c1caa6
+      internalID: -289401923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_222
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05065c989a3a43b59e7a2b0c9005fa9
+      internalID: 531146270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_223
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 104
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4104fc76564b359b5942684c84758
+      internalID: 1638611467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_224
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8795220bf398f4ff1a8f99a950888ea2
+      internalID: 1085006871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_225
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8a7953e9f74d6bae3fa194b0c5a96
+      internalID: 395051056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_226
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8fa32bcc7c64d66af2171db551da3b
+      internalID: 103019239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_227
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc29d422337c436fac11b8f560cbe45
+      internalID: 236490146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_228
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924854cff5ace4fee84c7bb185dcb7a9
+      internalID: -676592892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_229
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 104
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c5e718f35e74af6b18e1dae0cfa92a
+      internalID: 1132773374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_230
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 104
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162482f625ea6432ab3d6715e08dcea2
+      internalID: 245017083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_231
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 104
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e0792179b44d61b7b6ed3ff5e79b2
+      internalID: 1353903864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_232
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b6ad30c49564c0d8d4974b198299cb
+      internalID: -426656390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_233
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 104
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23501cb8ab950449bb588d92fbfcbf65
+      internalID: -1507203728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_234
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 104
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ad0183458624f9bb89c6081fe8be2c
+      internalID: 1067314897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_235
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 106
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a420efe708b745c4875066b9213be92
+      internalID: 496842175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_236
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 104
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516180db6b6ba4886874f98b50aa7541
+      internalID: -161438372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_237
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 104
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b7e761ec154830917acff2e5aad9f
+      internalID: -567324059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_238
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 104
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc92596b67274cf7a0923a69a1a23ad
+      internalID: 432200829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_239
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 108
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb8cd4ae88f42d9ab1a2268c2d2306
+      internalID: -935521460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_240
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 104
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540e3de6ed9e04b44b2890351b276cbe
+      internalID: -1058009590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_241
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 104
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122828297b8574821890dca28996b3fa
+      internalID: 1094752047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_242
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 104
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc1ff9442bf74b67bd80c4702d24154
+      internalID: -2026446551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_243
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f759b7882c4fe89508e116b634eac
+      internalID: 1277017937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_244
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 72
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b26a4f27809e4e2f9933d72763f7ce2
+      internalID: 688604515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_245
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 72
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d69b5188892401fb9be5d6ed8b4160
+      internalID: 160198586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_246
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 72
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17b25940c4a40f6a0533db8236109c
+      internalID: -944859907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_247
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 72
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5010fd756f8414c5fa835db2afba0913
+      internalID: 338161006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_248
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 72
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3689fbb01de0843a29f19031e4b470a6
+      internalID: -1060660206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_249
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 72
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a0bd0156224bd3b42df1923deb506
+      internalID: 1850962017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_250
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 75
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d95ddfa4084a2d863186ad40796e2
+      internalID: 656384886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_251
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 72
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1872f5a53ca4727b0cc993782946ff
+      internalID: -338480833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_252
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 72
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36841bfd41874acba06cbe9a69ba421
+      internalID: 998559817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_253
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 76
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3357c713c50704546b7cd8fe341a94d3
+      internalID: -302192538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_254
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 77
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4155a82d1e0c4f948493d790394e59c
+      internalID: 1336939238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_255
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4874d858e5e41feb0f80f16e5eb768
+      internalID: -254656287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_256
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a30b8f8f591491193c135b83b79c63
+      internalID: -221544233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_257
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 39
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93779d941d1b048f4bee34ad3bf724b1
+      internalID: 1746943459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_258
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e4799fe8c2d432d8e71e5b3dc5b7c3
+      internalID: 336704720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_259
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d98c25195354f54a9800b9ade5d4cc
+      internalID: 1530091991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_260
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7af193fb259494388d4609fc3448a6
+      internalID: -647622728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_261
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80416ad6f2d04b7ca730887e19196f2
+      internalID: 2126036589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_262
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 39
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f592a63891ea452f91fc09545308508
+      internalID: 91772570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_263
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c8ae19a58a448b0bb1a7a831ea0ff1
+      internalID: 753761241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_264
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 39
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a07cd1c7af14a5ebb86851f2f62c70
+      internalID: -1466850220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_265
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 38
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75148ca0b1b6d41abb3f14b718df9504
+      internalID: 1333262094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_266
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 37
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608a69283a7548d9abe879dd391753d
+      internalID: 870998759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_267
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 38
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bcdf291d5ca4618bb98aca374c32fe
+      internalID: -1734865670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_268
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972940f88de1c4a169042d777171e4d5
+      internalID: 895184276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_269
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 38
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca3cf7032b1d43a78db7d46d99d6e25
+      internalID: -291020156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_270
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e926a9ef36fe549858f007e29aae9785
+      internalID: -1365064579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_271
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 41
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82017da8bb4fb43799674a6a65521711
+      internalID: -299321376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_272
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8180e3b27c8b4995933f5256377bb23
+      internalID: -1125895062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_273
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 39
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd680dc13454a13b9cf826720aec8d
+      internalID: -2116039610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_274
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 40
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215235fb941348b3a3c10190dc8624e
+      internalID: -1481355095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_275
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 41
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb7f5e8c32f042018b34ab6b78ab738
+      internalID: -1147754636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_276
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 38
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50367e8c043764d6dab944d1314e8f60
+      internalID: 554995251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_277
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdafec3e783644ba856ef0891f55e12
+      internalID: 537506698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_278
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 39
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde3dcfb23174c6e84c04b8f19be9db
+      internalID: 1990240907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_279
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3686e8e46d34849b1af56d3ace1adfb4
+      internalID: -1055030048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_280
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a4dc23efe849fcb59bf0e7a78a98c
+      internalID: -1883764529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_281
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 7
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0313eaad168aa46f9876cedb128f667d
+      internalID: -925392155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_282
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98485f1dbba2c4670ba3fff12787091f
+      internalID: -1562484100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_283
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e4f9a11938d4025b262122642afae9
+      internalID: 284107461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_284
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 4
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fd3dbe5b85049d9aa818c9208cb350
+      internalID: -108970683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_285
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b730a0346f9c450494ac9405e4ff69e
+      internalID: -1380223967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_286
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5b9c9cf3c08422db31cb4ac3cc5721
+      internalID: -502079784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_287
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 8
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e4f2a4c62e547dfa3656faffe6498d
+      internalID: -1674729533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_288
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606cc38d89bf040b395293ce7fdc51de
+      internalID: -1465729890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_289
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 11
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f938bd10b57b149cb89571dc1f617ab4
+      internalID: -238739658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairless_1_290
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 12
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9dc18778ef4172ae6ae5bee2c66c5
+      internalID: 2062933622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hairless_1_139: 139773529
+      hairless_1_256: -221544233
+      hairless_1_24: 1403625197
+      hairless_1_257: 1746943459
+      hairless_1_35: 1635750285
+      hairless_1_11: -1473464485
+      hairless_1_125: -1420715327
+      hairless_1_59: 1116711999
+      hairless_1_216: -1371224618
+      hairless_1_265: 1333262094
+      hairless_1_108: -1386099194
+      hairless_1_174: -1967373651
+      hairless_1_173: 1628700319
+      hairless_1_217: -468750328
+      hairless_1_23: -1051715073
+      hairless_1_54: -863442387
+      hairless_1_70: -1388080478
+      hairless_1_117: 1484814698
+      hairless_1_214: -1099064020
+      hairless_1_44: 531625452
+      hairless_1_74: 259757399
+      hairless_1_133: 190338224
+      hairless_1_155: -1114298752
+      hairless_1_282: -1562484100
+      hairless_1_266: 870998759
+      hairless_1_183: -1542968219
+      hairless_1_178: 537567141
+      hairless_1_50: 642035450
+      hairless_1_75: 826948712
+      hairless_1_253: -302192538
+      hairless_1_153: -1618331302
+      hairless_1_7: 351555734
+      hairless_1_65: -230947251
+      hairless_1_127: -728093606
+      hairless_1_190: 1943518738
+      hairless_1_245: 160198586
+      hairless_1_105: -660030613
+      hairless_1_234: 1067314897
+      hairless_1_263: 753761241
+      hairless_1_25: -2135866381
+      hairless_1_2: 1570380054
+      hairless_1_200: 521489103
+      hairless_1_121: 446859884
+      hairless_1_196: 609070542
+      hairless_1_229: 1132773374
+      hairless_1_230: 245017083
+      hairless_1_104: -508036798
+      hairless_1_180: -2084704501
+      hairless_1_158: 1973363692
+      hairless_1_29: -449893593
+      hairless_1_268: 895184276
+      hairless_1_72: -2118616672
+      hairless_1_115: -466843922
+      hairless_1_143: 748603351
+      hairless_1_42: -1342423222
+      hairless_1_69: -21613729
+      hairless_1_269: -291020156
+      hairless_1_290: 2062933622
+      hairless_1_247: 338161006
+      hairless_1_201: 731537372
+      hairless_1_154: -1199434140
+      hairless_1_258: 336704720
+      hairless_1_226: 103019239
+      hairless_1_107: -1339451946
+      hairless_1_138: 893373225
+      hairless_1_224: 1085006871
+      hairless_1_37: 662580199
+      hairless_1_86: 1542024179
+      hairless_1_167: 1026009640
+      hairless_1_77: -1409484443
+      hairless_1_95: 501978599
+      hairless_1_248: -1060660206
+      hairless_1_22: 1234815823
+      hairless_1_8: 363941163
+      hairless_1_129: -1271603333
+      hairless_1_275: -1147754636
+      hairless_1_109: -64964997
+      hairless_1_181: -54133590
+      hairless_1_87: -315305770
+      hairless_1_179: -1755480381
+      hairless_1_150: 1356916180
+      hairless_1_146: -1597915089
+      hairless_1_228: -676592892
+      hairless_1_215: 1157430019
+      hairless_1_102: -874775738
+      hairless_1_211: 1177595159
+      hairless_1_80: 2034066559
+      hairless_1_242: -2026446551
+      hairless_1_148: 1396123854
+      hairless_1_19: 1347491439
+      hairless_1_36: 606877078
+      hairless_1_9: 9380249
+      hairless_1_261: 2126036589
+      hairless_1_18: -421624945
+      hairless_1_101: -507594965
+      hairless_1_288: -1465729890
+      hairless_1_10: -1936238461
+      hairless_1_207: 1911983873
+      hairless_1_40: 848124612
+      hairless_1_15: 337555832
+      hairless_1_16: -1242255242
+      hairless_1_163: 1163689104
+      hairless_1_189: 1624426962
+      hairless_1_47: -1890075144
+      hairless_1_135: -555619386
+      hairless_1_48: -1014847935
+      hairless_1_213: 1253483433
+      hairless_1_222: 531146270
+      hairless_1_219: -559169202
+      hairless_1_93: -1463312025
+      hairless_1_161: -1302743745
+      hairless_1_114: 1896998523
+      hairless_1_270: -1365064579
+      hairless_1_12: -56830761
+      hairless_1_0: -128129331
+      hairless_1_103: -857545385
+      hairless_1_191: -1301898879
+      hairless_1_221: -289401923
+      hairless_1_193: -1002540557
+      hairless_1_204: 1350093643
+      hairless_1_232: -426656390
+      hairless_1_126: -1608598043
+      hairless_1_57: -676749886
+      hairless_1_164: -1446322300
+      hairless_1_220: 1990074592
+      hairless_1_1: 433889430
+      hairless_1_73: -2033646971
+      hairless_1_63: -1109854889
+      hairless_1_162: 909207535
+      hairless_1_3: -2065611729
+      hairless_1_236: -161438372
+      hairless_1_28: -501363347
+      hairless_1_140: -438232320
+      hairless_1_176: 142836599
+      hairless_1_99: -895408713
+      hairless_1_165: 2122595839
+      hairless_1_272: -1125895062
+      hairless_1_262: 91772570
+      hairless_1_278: 1990240907
+      hairless_1_246: -944859907
+      hairless_1_4: 1260686192
+      hairless_1_21: -478624579
+      hairless_1_274: -1481355095
+      hairless_1_122: -2038131996
+      hairless_1_271: -299321376
+      hairless_1_227: 236490146
+      hairless_1_144: 1087217326
+      hairless_1_145: 1132748888
+      hairless_1_202: 907095936
+      hairless_1_287: -1674729533
+      hairless_1_199: -79716859
+      hairless_1_273: -2116039610
+      hairless_1_172: 916935116
+      hairless_1_45: -791137496
+      hairless_1_110: 1062427122
+      hairless_1_283: 284107461
+      hairless_1_38: 168003573
+      hairless_1_238: 432200829
+      hairless_1_187: 2054258132
+      hairless_1_128: 799117440
+      hairless_1_197: 783489170
+      hairless_1_88: -1430188318
+      hairless_1_286: -502079784
+      hairless_1_259: 1530091991
+      hairless_1_231: 1353903864
+      hairless_1_209: 693735109
+      hairless_1_39: -514534595
+      hairless_1_100: 809464626
+      hairless_1_147: -126413105
+      hairless_1_185: -1111057471
+      hairless_1_55: 965012387
+      hairless_1_116: 360304488
+      hairless_1_192: -452729014
+      hairless_1_243: 1277017937
+      hairless_1_67: 981033131
+      hairless_1_276: 554995251
+      hairless_1_177: 795249099
+      hairless_1_279: -1055030048
+      hairless_1_64: -2016267246
+      hairless_1_223: 1638611467
+      hairless_1_14: 1016155459
+      hairless_1_83: -464615484
+      hairless_1_137: -438947110
+      hairless_1_56: -174105156
+      hairless_1_27: 908045208
+      hairless_1_251: -338480833
+      hairless_1_96: -1788314867
+      hairless_1_280: -1883764529
+      hairless_1_203: 1947810911
+      hairless_1_142: 415503940
+      hairless_1_157: 1564396792
+      hairless_1_141: -1725568371
+      hairless_1_237: -567324059
+      hairless_1_13: -718494502
+      hairless_1_123: 1708502668
+      hairless_1_89: -262709234
+      hairless_1_26: 580143781
+      hairless_1_151: 433803073
+      hairless_1_182: 191231829
+      hairless_1_119: -648726004
+      hairless_1_46: 766987127
+      hairless_1_66: -159371818
+      hairless_1_206: -634218585
+      hairless_1_91: -634094198
+      hairless_1_284: -108970683
+      hairless_1_194: -2031185050
+      hairless_1_51: -716604079
+      hairless_1_82: 284624283
+      hairless_1_210: -640715529
+      hairless_1_106: -1692429501
+      hairless_1_152: -120751537
+      hairless_1_289: -238739658
+      hairless_1_124: 79427475
+      hairless_1_235: 496842175
+      hairless_1_168: -591823050
+      hairless_1_92: -1299573342
+      hairless_1_85: 1720142469
+      hairless_1_61: -106975301
+      hairless_1_169: 808796017
+      hairless_1_212: 212461832
+      hairless_1_98: 736534163
+      hairless_1_208: 719860391
+      hairless_1_84: 1460830130
+      hairless_1_52: -1588026987
+      hairless_1_6: -932631293
+      hairless_1_240: -1058009590
+      hairless_1_285: -1380223967
+      hairless_1_170: 1906221337
+      hairless_1_33: -2050410116
+      hairless_1_58: -980580705
+      hairless_1_260: -647622728
+      hairless_1_111: 790481845
+      hairless_1_249: 1850962017
+      hairless_1_264: -1466850220
+      hairless_1_267: -1734865670
+      hairless_1_79: -310640055
+      hairless_1_68: 70159289
+      hairless_1_90: -2147064320
+      hairless_1_34: -875371228
+      hairless_1_60: 1912077174
+      hairless_1_17: -1510446241
+      hairless_1_71: 125630046
+      hairless_1_244: 688604515
+      hairless_1_81: -516772674
+      hairless_1_171: -888949763
+      hairless_1_5: -192495128
+      hairless_1_131: 1227643494
+      hairless_1_132: -342134684
+      hairless_1_134: -1189741111
+      hairless_1_254: 1336939238
+      hairless_1_205: -1276218215
+      hairless_1_225: 395051056
+      hairless_1_149: 1925671278
+      hairless_1_281: -925392155
+      hairless_1_97: -1393393045
+      hairless_1_43: -1808983262
+      hairless_1_184: -1266356178
+      hairless_1_198: -344958566
+      hairless_1_113: -307673286
+      hairless_1_255: -254656287
+      hairless_1_32: -1859723595
+      hairless_1_76: 2142798883
+      hairless_1_120: -328834207
+      hairless_1_130: -915096440
+      hairless_1_175: -530380918
+      hairless_1_156: 947955747
+      hairless_1_195: 1939366465
+      hairless_1_94: 768945628
+      hairless_1_49: -623432579
+      hairless_1_218: -309877713
+      hairless_1_233: -1507203728
+      hairless_1_20: -363468890
+      hairless_1_252: 998559817
+      hairless_1_30: 1069058126
+      hairless_1_250: 656384886
+      hairless_1_78: -947511502
+      hairless_1_188: -703921489
+      hairless_1_277: 537506698
+      hairless_1_41: 1369457860
+      hairless_1_166: 1526702565
+      hairless_1_186: -231540426
+      hairless_1_239: -935521460
+      hairless_1_160: -533865216
+      hairless_1_159: 1988201532
+      hairless_1_62: -957116771
+      hairless_1_31: 549718765
+      hairless_1_118: -1512039741
+      hairless_1_136: -23473904
+      hairless_1_241: 1094752047
+      hairless_1_112: -520358933
+      hairless_1_53: -1191659887
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
