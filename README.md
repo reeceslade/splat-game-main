@@ -5,6 +5,6 @@ In Splat!, you play as a brave little critter, trying to cross a busy street fil
 
 Splat! is not for the faint of heart. But, don't let that deter you, as the game's compelling gameplay and stunning visuals will have you hooked from the very first playthrough.
 
-Video Link - https://brightspace.bournemouth.ac.uk/d2l/wcs/mp/mediaplayer.d2l?ou=297619&entryId=910a97de-4ef8-421a-ab52-cba9263a6587/latest&type=video
+Video Link -> https://brightspace.bournemouth.ac.uk/d2l/wcs/mp/mediaplayer.d2l?ou=297619&entryId=910a97de-4ef8-421a-ab52-cba9263a6587/latest&type=video
 
 
